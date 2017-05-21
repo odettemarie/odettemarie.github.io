@@ -1,0 +1,66 @@
+
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1,
+.header,
+h4 {
+  background-image: url("/Users/Odette/GitHub/odettemarie.github.io/Broadway/resources/images/the-flatiron-building.png");
+
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.header {
+  font-size: 18px;
+  color: white;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+font-size: 32px;
+font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  margin: 0;
+  text-align: left;
+
+}
+
+.footer ul li {
+  display: inline-block;
+}
+
+.copy {
+  font-size: 11px;
+  text-align: left;
+}
